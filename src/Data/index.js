@@ -387,5 +387,4 @@ const footerData = {
     "Support",
   ],
 };
-
 export const footerDataFunc = () => footerData;

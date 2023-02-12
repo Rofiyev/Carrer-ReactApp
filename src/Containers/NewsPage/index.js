@@ -1,5 +1,5 @@
 import { Avatar, Box, Button, Grid, Typography } from "@mui/material";
-import { grey, red } from "@mui/material/colors";
+import { grey } from "@mui/material/colors";
 import { newsDataFunc, newsDataFunc_2 } from "../../Data";
 
 const NewsPage = () => {

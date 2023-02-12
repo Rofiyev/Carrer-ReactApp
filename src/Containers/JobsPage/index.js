@@ -1,6 +1,5 @@
 import { Grid, Typography, Box, Button } from "@mui/material";
 import { orange, red } from "@mui/material/colors";
-import React from "react";
 import { jobPageCardDataFunc } from "../../Data";
 
 export default function JonsPage() {
