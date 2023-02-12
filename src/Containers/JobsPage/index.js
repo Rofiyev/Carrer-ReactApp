@@ -1,4 +1,4 @@
-import { Grid, Typography, Box, Button } from "@mui/material";
+import { Grid, Typography, Button } from "@mui/material";
 import { orange, red } from "@mui/material/colors";
 import { jobPageCardDataFunc } from "../../Data";
 
