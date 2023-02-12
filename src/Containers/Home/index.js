@@ -10,7 +10,6 @@ import {
 } from "@mui/material";
 import { orange } from "@mui/material/colors";
 import { Box } from "@mui/system";
-import React from "react";
 import SearchIcon from "@mui/icons-material/Search";
 import LocationOnIcon from "@mui/icons-material/LocationOn";
 import airbnb from "./image/airbnb.svg";
